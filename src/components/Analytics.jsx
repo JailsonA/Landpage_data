@@ -14,7 +14,7 @@ const Analytics = () => {
             traditional solutions, it is necessary to develop solutions
             "tailored" to your needs.
           </p>
-          <button className="bg-[#35A7FF] w-[200px] rounded-md text-white my-6 mx-auto md:mx-0 py-3 font-bold ">Get Started</button>
+          <button className="bg-[#35A7FF] w-[200px] rounded-md  text-white my-6 mx-auto md:mx-0 py-3 font-bold ">Get Started</button>
         </div>
       </div>
     </div>
