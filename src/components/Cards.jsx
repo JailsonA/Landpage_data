@@ -4,7 +4,7 @@ import Double from "../assets/double.png";
 import Triple from "../assets/triple.png";
 const Cards = () => {
   return (
-    <div className="w-full py-[10rem] px-4 bg-white">
+    <div className="w-full py-[10rem] px-4 bg-white" id="Cards">
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
         <div className="w-full shadow-xl flex flex-col p-4 border my-4 rounded-lg hover:scale-[1.02] duration-300">
           <img

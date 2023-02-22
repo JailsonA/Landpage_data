@@ -3,7 +3,7 @@ import Typed from "react-typed";
 
 const Hero = () => {
   return (
-    <div className="text-white">
+    <div className="text-white" id="Hero">
       <div className="max-w-[800px] w-full h-screen mx-auto text-center flex flex-col justify-center">
         <p className="text-[#35A7FF] font-bold p-2">UPCOMING GROWING WITH US</p>
         <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">
